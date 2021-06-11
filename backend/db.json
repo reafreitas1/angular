@@ -1,29 +1,34 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "produto 1",
-            "price": 111.11
-        },
-        {
-            "id": 2,
-            "name": "produto 2",
-            "price": 111.12
-        },
-        {
-            "id": 3,
-            "name": "produto 3",
-            "price": 111.13
-        },
-        {
-            "id": 4,
-            "name": "produto 4",
-            "price": 111.14
-        },
-        {
-            "id": 5,
-            "name": "produto 5",
-            "price": 111.15
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caramel Royal",
+      "price": 5.5
+    },
+    {
+      "id": 2,
+      "name": "Chocolate Truffles",
+      "price": 6
+    },
+    {
+      "id": 3,
+      "name": "Coconut Treat",
+      "price": 4.5
+    },
+    {
+      "id": 4,
+      "name": "Royal Mint",
+      "price": 5
+    },
+    {
+      "id": 5,
+      "name": "Stracciatella",
+      "price": 4
+    },
+    {
+      "name": "Mango",
+      "price": "4.50",
+      "id": 6
+    }
+  ]
 }
