@@ -8,3 +8,16 @@
     font-size: 1.1rem;
 
 }
+
+.img1 {
+    margin-top: 40px;
+    margin-left: 45px;
+    display: flex;
+    max-height: 400px;
+    align-items: center;
+}
+
+.home .content {
+    lighting-color: #fff;
+    text-decoration: none;
+}

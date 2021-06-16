@@ -2,22 +2,22 @@
   "products": [
     {
       "id": 1,
-      "name": "Caramel Royal",
-      "price": 5.5
+      "name": "Caramel",
+      "price": "6.90"
     },
     {
       "id": 2,
-      "name": "Chocolate Truffles",
+      "name": "Chocolate",
       "price": 6
     },
     {
       "id": 3,
-      "name": "Coconut Treat",
+      "name": "Coconut",
       "price": 4.5
     },
     {
       "id": 4,
-      "name": "Royal Mint",
+      "name": "Mint",
       "price": 5
     },
     {
