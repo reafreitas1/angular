@@ -1,7 +1,9 @@
 ### **Angular 9 Project**
 
-Vídeo:
-https://drive.google.com/file/d/1PuwluzOqKJTAMRWUmsVhHanHRo7ZBqcl/view?usp=sharing
+
+https://user-images.githubusercontent.com/79333175/154321579-e548ca51-c68f-46a0-9597-6ebdadeb722a.mp4
+
+
 
 Each of the components, directives and services were generated with the command "npm g(enerate)". For each component generated, a route had to be created. I initialized the backend with the JSON server and compile the frontend to read .ts and generate .js.
 
