@@ -14,7 +14,7 @@ Each of the components, directives and services were generated with the command 
 » Started npm by generating package.json
 `init npm - y`
 » Generating package-lock.json
-`npm i jason-server`
+`npm i json-server`
 » Generating frontend
 `ng new frontend -- minimal` (option CSS)
 
